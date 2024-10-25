@@ -10,3 +10,4 @@
 Rayo05/Rayo05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Screenshot 2024-10-25 131803](https://github.com/user-attachments/assets/634c9971-b93d-4a67-b5b8-755396dea093)
